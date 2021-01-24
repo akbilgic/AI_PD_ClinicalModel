@@ -22,11 +22,11 @@ import statsmodels.stats.api as sms
 thr = 0.26237751134639836
 
 
-with open(sys.argv[1], "r") as file:
-    labels = eval(file.readline())
+#with open(sys.argv[1], "r") as file:
+#    labels = eval(file.readline())
 
 
-predictors = pd.read_csv(sys.argv[2], index_col=0)
+predictors = pd.read_csv(sys.argv[1], index_col=0)
 predictors
 
 models = glob.glob('Models-5year\*5_year.txt')
