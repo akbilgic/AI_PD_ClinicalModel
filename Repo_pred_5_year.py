@@ -31,7 +31,7 @@ predictors
 
 models = glob.glob('Models-5year\*5_year.txt')
 
-print (models)
+#print (models)
 pred_prob = []
 
 for i in range(len(models)):
