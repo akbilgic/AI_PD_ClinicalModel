@@ -29,6 +29,6 @@ If you find this code useful, please cite the following paper:
 
 # Contact
 
-For any feedback, or bug report, please don't hesitate to the author, [Dr. Ibrahim Karabayir](mailto:ikarabayir@luc.edu?subject=[AI_PD_ClinicalModel]%20Source%20Han%20Sans)
+For any feedback, or bug report, please don't hesitate to the author, [Dr. Ibrahim Karabayir](mailto:ikarabayir@luc.edu?subject=[AI_PD_ClinicalModel])
 
  
