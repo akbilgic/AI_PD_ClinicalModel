@@ -1,10 +1,9 @@
 # AI_PD_ClinicalModel
-Light Gradient Boosting model to predict Parkinson's disease at prodromal phase
+Parkinson’s disease risk prediction is associated with Lewy pathology and neuron density
 
 # Requirements
 
 * Python 3.7.7
-* bayesian-optimization     1.0.1
 * lightgbm                  2.3.1
 * scikit-learn              0.22.1
 * scipy                     1.3.3
@@ -28,15 +27,7 @@ Both py file would provide risk scores and labels to your local directory as csv
 If you find this code useful, please cite the following paper:
 
 Parkinson’s disease risk prediction is associated with Lewy pathology and neuron density,
-Ibrahim Karabayir1,2 PHD, Liam Butler1 PHD, Samuel M Goldman3,* MD MPH, Rishikesan Kamaleswaran4 PhD, Fatma Gunturkun5 PHD, Robert L Davis5 MD MPH, Webb Ross6 MD, Helen Petrovitch6 MD, Kamal Masaki7 MD, Caroline Tanner8 MD, Georgios Tsivgoulis, MD5 Andrei V. Alexandrov5, MD,  Oguz Akbilgic1,* PHD
-
-1Loyola University Chicago: 
-2Kirklareli University
-3UCSF
-4Emory University
-5UTHSC 
-6VA  
-7Kuakini
+Ibrahim Karabayir PHD, Liam Butler PHD, Samuel M Goldman,* MD MPH, Rishikesan Kamaleswaran PhD, Fatma Gunturkun PHD, Robert L Davis MD MPH, Webb Ross MD, Helen Petrovitch MD, Kamal Masaki MD, Caroline Tanner MD, Georgios Tsivgoulis MD, Andrei V. Alexandrov MD,  Oguz Akbilgic * PHD
 
 Running title:  Predicting Parkinson’s disease and Lewy pathology
 
