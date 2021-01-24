@@ -10,10 +10,10 @@ Parkinson’s disease risk prediction is associated with Lewy pathology and neur
 
 
 # Getting Started
-* 1- The python versions and libraries you have should meet above.
-* 2- Get the code $ git clone the repo and install the dependencies
-* 3- Execute below in the local repo directory,
-1.
+1. The python versions and libraries you have should meet above.
+2. Get the code $ git clone the repo and install the dependencies
+3. Execute below in the local repo directory,
+
 For 3 year predicted risk scores and labels;
 python Repo_pred_3_year.py predictors_example.csv
 
