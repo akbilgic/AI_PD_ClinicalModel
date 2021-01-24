@@ -8,7 +8,7 @@ Light Gradient Boosting model to predict Parkinson's disease at prodromal phase
 * lightgbm                  2.3.1
 * scikit-learn              0.22.1
 * scipy                     1.3.3
-* matplotlib                3.3.1
+
 
 # Getting Started
 1- the python versions and libraries you have should meet above.
