@@ -17,7 +17,7 @@ Parkinson’s disease risk prediction is associated with Lewy pathology and neur
 For 3 year predicted risk scores and labels;
 python Repo_pred_3_year.py predictors_example.csv
 
-For 5 year predicted risk scores and labels
+For 5 year predicted risk scores and labels;
 python Repo_pred_5_year.py predictors_example.csv
 
 Both py file would provide risk scores and labels to your local directory as csv file.
